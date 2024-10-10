@@ -1,0 +1,33 @@
+Answer1.Functions let you reuse code, keep it organized, and make it easier to fix or update.
+Answer2.The code runs only when you call the function, not when it's written.
+Answer3. The def statement creates a function in Python.
+answer4.A function is the block of code you define. A function call is when you actually use the function to make it run.
+
+q5 How many global scopes are there in a Python program? How many local scopes? 
+Answer5.There is only one global scope in a program, but there can be many local scopes (one for each function).
+Answer6.Local variables are deleted when the function ends.
+answer7.A return value is what a function gives back after it runs. Yes, you can use it in an expression.
+Q8.If a function doesn’t have a return statement, what does it return? Answer8.It returns None by default
+Q9.How do you make a function variable refer to a global variable?
+Answer9. Use the global keyword to tell Python you're using a global variable.
+q10.What is the data type of None?
+Answer10. The data type of None is NoneType.
+
+Q11. What does import areallyourpetsnamederic do? 
+Answer11.It would try to import a module named areallyourpetsnamederic (if such a module exists).
+
+Q12.If you had a bacon() function in a spam module, how would you call it? 
+Answer12.After importing the module with import spam, you would call it as spam.bacon().
+
+Q13.How can you stop a program from crashing if it hits an error? 
+Answer13. You can use a try block to handle errors and stop the program from crashing.
+
+Q14.What is the purpose of the try and except clauses? 
+Answer14.
+The try block runs the code that might cause an error, and the except block runs if an error happens, allowing you to handle it.
+
+
+
+
+
+
